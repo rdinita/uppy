@@ -1,5 +1,11 @@
 # @uppy/dashboard
 
+## 5.1.2
+
+### Patch Changes
+
+- b9253f7: fix "My Device" button in dashboard, it now respects the fileManagerSelectionType.
+
 ## 5.1.1
 
 ### Patch Changes
